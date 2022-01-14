@@ -1,0 +1,29 @@
+header {
+  background-color: #ff7f9e;
+}
+
+#header-h1 {
+  font-size: 80px;
+}
+
+.cursive-font {
+  font-family: "The Nautigal", cursive;
+}
+
+#pretzel {
+  height: 41vh;
+  background-image: url(../img/pretzel.jpg);
+  background-size: contain;
+}
+
+#bday-box {
+  height: 41vh;
+  background-image: url(../img/bday-box.jpg);
+  background-size: contain;
+}
+
+#cocoa-bombs {
+  height: 41vh;
+  background-image: url(../img/cocoa-bombs.jpg);
+  background-size: contain;
+}
