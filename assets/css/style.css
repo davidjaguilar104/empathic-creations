@@ -27,3 +27,22 @@ header {
   background-image: url(../img/cocoa-bombs.jpg);
   background-size: contain;
 }
+
+footer {
+  height: 20vh;
+  background-image: url(../img/ec-logo.jpg);
+  background-size: contain;
+}
+
+section {
+  background-color: aqua;
+}
+
+a {
+  color: black;
+  font-size: 60px;
+}
+
+a:hover {
+  color: white;
+}
